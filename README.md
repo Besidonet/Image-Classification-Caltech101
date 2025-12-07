@@ -6,21 +6,21 @@ This project is a simple Streamlit demo that classifies images using a fine-tune
 
 (https://image-classification-caltech101-umwmwjwyultckkjrtth7sd.streamlit.app/)
 
-⚙️ Features
+⚙️ Features:
 
-Upload an image (JPG/PNG)
-Automatic preprocessing (resize + normalize)
+Upload an image (JPG/PNG),
+Automatic preprocessing (resize + normalize) and 
 Prediction using a PyTorch ResNet-18 model
 
 Shows:
 
-Predicted class
-Confidence score
+Predicted class,
+Confidence score and 
 Top-3 class probabilities
 
 🧠 Model Info
 
-Backbone: ResNet-18 pretrained on ImageNet
+Backbone: ResNet-18 pretrained on ImageNet and 
 Modified final FC layer → 10 output classes
 
 Trained on these classes:
