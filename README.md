@@ -32,9 +32,13 @@ ketch, watch
 📂 Project Files
 
 app.py
+
 requirements.txt
+
 resnet18_caltech10.pth
+
 class_names.json
+
 README.md
 
 ▶️ Run Locally
@@ -44,9 +48,9 @@ streamlit run app.py
 
 📦 Technologies
 
-Python
-PyTorch
-Torchvision
+Python,
+PyTorch,
+Torchvision, and
 Streamlit
 
 📄 Notes
