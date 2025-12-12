@@ -17,12 +17,12 @@ SELECTED_CLASSES = [
     'Faces_easy',
     'Leopards',
     'Motorbikes',
-    'accordion',
-    'airplanes',
-    'bass',
-    'bonsai',
-    'brain',
-    'buddha'
+    'airplanes', 
+    'bonsai', 
+    'car_side', 
+    'chandelier', 
+    'ketch', 
+    'watch'
 ]
 
 
@@ -139,3 +139,4 @@ if uploaded_file is not None:
 
 else:
     st.info("👆 Upload an image file to see the model's prediction on unseen data.")
+
